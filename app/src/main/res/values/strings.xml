@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20180209test</string>
+    <string name="btn_01">按我</string>
+    <string name="tev1">測試1</string>
+    <string name="change">change page</string>
+
+</resources>
